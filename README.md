@@ -19,4 +19,4 @@
 </svg>
     </clipboard-copy>
   </div></div>
-}
+
